@@ -3,5 +3,4 @@ Biodata :
 Nama 			: Alan Dimas
 Kegiatan saat ini 	: Mencari role pekerjaan QA Software
 
-Alasan ikut kursus      : Untuk menambah skill di bidang QA Software dan agar lebih siap setelah mendapatkan role pekerjaan tersebut.
 
